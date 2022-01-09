@@ -1,1 +1,0 @@
-Rename the desired filed to X_Beach.png and put it under assets/Portraits. X = name of character
